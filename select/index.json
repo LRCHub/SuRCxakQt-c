@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "バッド・ムーン・ライジング",
+  "base_artist": "Creedence Clearwater Revival",
+  "createdAt": "2026-02-15T15:24:16.756102Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad Moon Rising",
+      "artist": "Creedence Clearwater Revival",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_Moon_Rising_Creedence_Clearwater_Revival.txt"
+    }
+  ]
+}
